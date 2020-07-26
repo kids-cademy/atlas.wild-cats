@@ -1,0 +1,3 @@
+<manifest package="com.kidscademy.atlas.wild_cats">
+    <application android:theme="@style/AtlasTheme.Classic"></application>
+</manifest>
